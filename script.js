@@ -34,19 +34,15 @@ const displayProducts = (products) => {
 
     // create card
     const card = `
-      <div class="col-sm-3 mb-3">
-        <div class="card border-${phone.color}">
-          <div class="card-body">
-            <h5 class="card-title text-${phone.color}">
-              ${phone.model}
-            </h5>
-            <ul class="card-text">
-              ${specsList}
-            </ul>
-          </div>
-        </div>
+  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+    <div class="card border-${phone.color} h-100">
+      <div class="card-body">
+        <h5 class="card-title text-${phone.color}">${phone.model}</h5>
+        <ul class="card-text">${specsList}</ul>
       </div>
-    `;
+    </div>
+  </div>
+`;
 
     container.innerHTML += card;
 
@@ -101,3 +97,4 @@ searchInput.addEventListener("input", () => {
 // Optional: prevent form submission from reloading page
 
 searchForm.addEventListener("submit", (e) => e.preventDefault());
+
