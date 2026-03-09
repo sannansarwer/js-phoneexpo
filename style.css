@@ -1,4 +1,10 @@
-body{
-    margin: 100px;
+body {
+    margin: 20px; /* smaller default */
     background-color: rgb(235, 231, 231);
+}
+
+@media (min-width: 992px) {
+    body {
+        margin: 50px; /* bigger margin for laptop/desktop */
+    }
 }
