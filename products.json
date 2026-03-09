@@ -1,0 +1,156 @@
+[
+  {
+    "id": "iphone17promax",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro Max",
+    "color": "success",
+    "specs": [
+      "2 TB – top-tier performance",
+      "iOS 26",
+      "Dimensions: 163.4 × 78 × 8.8 mm",
+      "Weight: 233 g"
+    ]
+  },
+  {
+    "id": "iphone17pro",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro",
+    "color": "success",
+    "specs": [
+      "1 TB – top-tier performance",
+      "iOS 26",
+      "Dimensions: 163.4 × 78 × 8.8 mm",
+      "Weight: 220 g"
+    ]
+  },
+  {
+    "id": "iphone16promax",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "color": "success",
+    "specs": [
+      "2 TB – top-tier performance",
+      "iOS 26",
+      "Dimensions: 163.4 × 78 × 8.8 mm",
+      "Weight: 220 g"
+    ]
+  },
+  {
+    "id": "iphone17pro",
+    "brand": "Apple",
+    "model": "iPhone 16 Pro",
+    "color": "success",
+    "specs": [
+      "1 TB – top-tier performance",
+      "iOS 26",
+      "Dimensions: 163.4 × 78 × 8.8 mm",
+      "Weight: 200 g"
+    ]
+  },
+  {
+    "id": "iphone15promax",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "color": "success",
+    "specs": [
+      "2 TB – top-tier performance",
+      "iOS 26",
+      "Dimensions: 163.4 × 78 × 8.8 mm",
+      "Weight: 230 g"
+    ]
+  },
+  {
+    "id": "s24ultra",
+    "brand": "Samsung",
+    "model": "S24 Ultra",
+    "color": "danger",
+    "specs": [
+      "1 TB storage",
+      "12 GB RAM",
+      "Dimensions: 162.8 × 77.6 × 8.2 mm",
+      "Android 15",
+      "Weight: 219 g"
+    ]
+  },
+  {
+    "id": "s23ultra",
+    "brand": "Samsung",
+    "model": "S23 Ultra",
+    "color": "danger",
+    "specs": [
+      "1 TB storage",
+      "12 GB RAM",
+      "Dimensions: 162.8 × 77.6 × 8.2 mm",
+      "Android 15",
+      "Weight: 209 g"
+    ]
+  },
+  {
+    "id": "s22ultra",
+    "brand": "Samsung",
+    "model": "S22 Ultra",
+    "color": "danger",
+    "specs": [
+      "256 GB storage",
+      "12 GB RAM",
+      "Dimensions: 162.8 × 77.6 × 8.2 mm",
+      "Android 15",
+      "Weight: 210 g"
+    ]
+  },
+  {
+    "id": "a55",
+    "brand": "Samsung",
+    "model": "A55",
+    "color": "danger",
+    "specs": [
+      "256 GB storage",
+      "8 GB RAM",
+      "Dimensions: 161.1 × 77.4 × 8.2 mm",
+      "Android 14",
+      "Weight: 214 g"
+    ]
+  },
+  {
+    "id": "xiaomi13",
+    "brand": "Xiaomi",
+    "model": "Mi 13",
+    "color": "info",
+    "specs": [
+      "MIUI 14 – 6.36 Inches",
+      "8 GB RAM",
+      "GPU: Adreno 740",
+      "Dimensions: 152.8 × 71.5 × 8.0 mm",
+      "Android 13",
+      "Weight: 185 g"
+    ]
+  },
+  {
+    "id": "xiaomi12",
+    "brand": "Xiaomi",
+    "model": "Mi 12",
+    "color": "info",
+    "specs": [
+      "MIUI 12 – 6.28 Inches",
+      "4 GB RAM",
+      "GPU: Adreno 740",
+      "Dimensions: 152.7 × 69.9 × 8.2 mm",
+      "Android 12",
+      "Weight: 170 g"
+    ]
+  },
+  {
+    "id": "redmi12",
+    "brand": "Xiaomi",
+    "model": "Redmi 12",
+    "color": "info",
+    "specs": [
+      "MIUI 12 – 6.30 Inches",
+      "4 GB RAM",
+      "GPU: Adreno 740",
+      "Dimensions: 152.8 × 71.5 × 8.0 mm",
+      "Android 12",
+      "Weight: 160 g"
+    ]
+  }
+]
