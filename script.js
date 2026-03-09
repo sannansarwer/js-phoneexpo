@@ -2,7 +2,7 @@
 let phones = [];
 
 // load products from JSON
-fetch("data/products.json")
+fetch("products.json")
   .then(response => response.json())
   .then(data => {
     phones = data;
@@ -99,4 +99,5 @@ searchInput.addEventListener("input", () => {
 });
 
 // Optional: prevent form submission from reloading page
+
 searchForm.addEventListener("submit", (e) => e.preventDefault());
