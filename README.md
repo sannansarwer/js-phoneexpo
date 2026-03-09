@@ -5,7 +5,9 @@ A dynamic, responsive web application showcasing smartphones from multiple brand
 ## Demo
 
 You can preview the app locally by opening index.html in your browser.
+
 OR
+
 Live Demo # 
 
 ## Features
@@ -20,56 +22,50 @@ Live Demo #
 
 ## Technologies
 
-HTML5 – Markup and structure.
+- HTML5 – Markup and structure.
 
-CSS3 & Bootstrap 5 – Styling and responsive design.
+- CSS3 & Bootstrap 5 – Styling and responsive design.
 
-JavaScript (ES6) – Dynamic content rendering and filtering.
+- JavaScript (ES6) – Dynamic content rendering and filtering.
 
-JSON – Product data storage and retrieval.
+- JSON – Product data storage and retrieval.
 
 ## phone-expo/
-│
+
 ├── index.html         # Main HTML file
+
 ├── css/
-│   └── style.css      # Custom CSS
+
+    └── style.css      # Custom CSS
+    
 ├── js/
-│   └── script.js      # JavaScript for dynamic rendering and search
+
+    └── script.js      # JavaScript for dynamic rendering and search
+    
 ├── data/
-│   └── products.json  # JSON data for phones
+
+    └── products.json  # JSON data for phones
+    
 └── README.md          # Project documentation
 
 ## Usage
 
-Browse Products – Scroll through the product cards to see different phone models.
+* Browse Products – Scroll through the product cards to see different phone models.
 
-Search – Type in the search box to filter phones by brand or model.
+* Search – Type in the search box to filter phones by brand or model.
 
-Filter by Brand – Use the dropdown buttons to display phones of a specific brand.
+* Filter by Brand – Use the dropdown buttons to display phones of a specific brand.
 
 ## Contributing
 
 Contributions are welcome! You can improve this project by:
 
-Adding more brands and products to the JSON file.
+- Adding more brands and products to the JSON file.
 
-Enhancing UI/UX with additional Bootstrap components or animations.
+- Enhancing UI/UX with additional Bootstrap components or animations.
 
-Implementing advanced filtering or sorting features.
+- Implementing advanced filtering or sorting features.
 
-Steps to contribute:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature-name).
-
-Make your changes.
-
-Commit your changes (git commit -m "Add new feature").
-
-Push to the branch (git push origin feature-name).
-
-Create a pull request.
 
 ## License
 
