@@ -8,7 +8,7 @@ You can preview the app locally by opening index.html in your browser.
 
 OR
 
-Live Demo # 
+Live Demo #  https://sannansarwer.github.io/js-phoneexpo/
 
 ## Features
 
